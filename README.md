@@ -43,4 +43,12 @@
   <a href="#"><img src="https://badges.pufler.dev/visits/brunosilva0603/brunosilva0603"></a> hipsters and nerds have come here o/
 </p>
 
+<details>
+  <summary>📃 Resume</summary>
 
+
+## Education
+
+- 📖 **Analysis and systems development - ADS**\
+📆 2015 - 2019\
+📍 **College of São Salvador** - Salvador, Brazil
