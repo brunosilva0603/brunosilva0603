@@ -34,8 +34,8 @@
 </div>
 
 <p align = "center">
-    <img src='https://github-readme-stats.vercel.app/api?username=brunosilva0603&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosilva0603&show_icons=true&layout=compact&theme=gotham&line_height=27&hide_border=true">
+    <img src='https://github-readme-stats.vercel.app/api?username=brunosilva0603&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27' alt="drawing" width="350"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosilva0603&show_icons=true&layout=compact&theme=gotham&line_height=27&hide_border=true" alt="drawing" width="350">
 </p>
 
 <p align='center'>
