@@ -86,10 +86,18 @@
     <img alt="Java" src="https://img.shields.io/badge/java-007396?&style=for-the-badge&logo=java&logoColor=white"/>
     <img alt="MySql"src="https://img.shields.io/badge/mysql-%2342759c.svg?&style=for-the-badge&logo=mysql&logoColor=db8a35"/>
     <img alt="PHP"src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-    <img alt="PHP"src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-    <img alt="PHP"src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
+    <img alt="Laravel"src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+    <img alt="Postman"src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
 
   
 </p>  
   
+## **Profile Style**
+- If you want to make a profile like this.
+- Just click on the 2 links below.
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">Anurag Hazra</a>
+  <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile" target="_blank">Alexandre Sanlim</a>
+  </P>
+
 </details>
