@@ -87,6 +87,7 @@
     <img alt="MySql"src="https://img.shields.io/badge/mysql-%2342759c.svg?&style=for-the-badge&logo=mysql&logoColor=db8a35"/>
     <img alt="PHP"src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
     <img alt="PHP"src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+    <img alt="PHP"src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
 
   
 </p>  
